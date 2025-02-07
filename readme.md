@@ -23,4 +23,4 @@ A TypeScript boilerplate for building an Express application with essential util
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/rekarachmadi99/express-ts-boilerplate.git]
+   git clone https://github.com/rekarachmadi99/express-ts-boilerplate.git
